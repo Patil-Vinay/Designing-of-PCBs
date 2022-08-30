@@ -1,0 +1,9 @@
+# unzipped gerbers and local exports
+Gerber_*/
+*.step
+*.stl
+
+# os files
+Thumbs.db
+Desktop.ini
+.DS_Store

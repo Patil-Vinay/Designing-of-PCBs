@@ -1,0 +1,4 @@
+# keep binary design exports as they are
+*.pdf binary
+*.zip binary
+*.png binary
